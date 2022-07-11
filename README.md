@@ -15,6 +15,7 @@
 ## 필수 구현 사항
 
 [시연영상 보기 Click!](https://youtu.be/VYkbAKeaEy4)
+[맛보기 (aws s3 웹호스팅) ](http://clnass505.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### 1.소셜로그인 (OAuth 2.0 기반의 카카오 소셜 로그인)
 
